@@ -1,0 +1,6 @@
+E:\CppProjects\OOP\PopBallv4\PopBallv4\x64\Debug\PopBallv4.vcxproj.AssemblyReference.cache
+E:\CppProjects\OOP\PopBallv4\PopBallv4\x64\Debug\PopBallv4.MainForm.resources
+E:\CppProjects\OOP\PopBallv4\PopBallv4\x64\Debug\PopBallv4.vcxproj.GenerateResource.cache
+E:\dev\CppProjects\OOP\PopBallv4\PopBallv4\x64\Debug\PopBallv4.vcxproj.AssemblyReference.cache
+E:\dev\CppProjects\OOP\PopBallv4\PopBallv4\x64\Debug\PopBallv4.MainForm.resources
+E:\dev\CppProjects\OOP\PopBallv4\PopBallv4\x64\Debug\PopBallv4.vcxproj.GenerateResource.cache

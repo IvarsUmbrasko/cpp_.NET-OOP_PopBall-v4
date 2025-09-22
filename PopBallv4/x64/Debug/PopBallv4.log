@@ -1,0 +1,88 @@
+﻿  Ball.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(8,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(8,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(22,10): warning C4305: '*=': truncation from 'double' to 'float'
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(23,10): warning C4305: '*=': truncation from 'double' to 'float'
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(32,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(33,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(34,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Ball.cpp(35,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MainForm.cpp
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(235,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(235,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(247,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(247,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(247,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(247,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(259,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(259,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(259,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(259,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(272,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(272,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(272,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.h(272,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+E:\dev\CppProjects\OOP\PopBallv4\MainForm.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Manager.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Manager.cpp(64,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Manager.cpp(84,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mover.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(12,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(13,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(15,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(16,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(21,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(22,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(23,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(24,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(58,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(59,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(62,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Mover.cpp(63,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Rectangle.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Rectangle.cpp(14,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Rectangle.cpp(14,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Rotator.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Rotator.cpp(21,15): warning C4305: '-=': truncation from 'double' to 'float'
+E:\dev\CppProjects\OOP\PopBallv4\Rotator.cpp(25,15): warning C4305: '+=': truncation from 'double' to 'float'
+  Star.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Star.cpp(16,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Star.cpp(17,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Triangle.cpp
+E:\dev\CppProjects\OOP\PopBallv4\Triangle.cpp(17,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Triangle.cpp(18,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Triangle.cpp(20,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\dev\CppProjects\OOP\PopBallv4\Triangle.cpp(21,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+E:\dev\CppProjects\OOP\PopBallv4\Manager.cpp(50,1): warning C4715: 'Manager::remove': not all control paths return a value
+  Ball.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PopBallv4.vcxproj -> E:\dev\CppProjects\OOP\PopBallv4\x64\Debug\PopBallv4.exe
